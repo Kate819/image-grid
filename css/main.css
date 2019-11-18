@@ -40,7 +40,7 @@ img {
 
 @media only screen and (min-width: 25em) {
 
-  .photo:nth-of-type(2) {
+  .photo:nth-child(2) {
     display: block;
   }
 
@@ -61,7 +61,7 @@ img {
 @media only screen and (min-width: 38em) {
 
   .photo {
-    width: 33.33%;
+    width: 33.3333%;
   }
 
   .photo:first-of-type {
@@ -77,7 +77,7 @@ img {
 @media only screen and (min-width: 60em) {
 
   .photo:first-of-type {
-    width: 66.66%;
+    width: 66.6666%;
   }
 
   .photo:last-of-type {
